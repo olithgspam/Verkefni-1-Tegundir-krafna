@@ -32,7 +32,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 ### 3.1 Viðskiptakröfur
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| BR1 | [Titill á viðskiptakröfu] | [#1](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/1)) |
+| BR1 | [Titill á viðskiptakröfu] | [#1](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/1) |
 | BR2 | [Titill á viðskiptakröfu] | [#13](../../issues/13) |
 
 ### 3.2 Kerfiskrafa

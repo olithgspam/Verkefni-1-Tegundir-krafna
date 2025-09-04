@@ -1,10 +1,10 @@
 # 🧭 System Description Specification (SDS)
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Hópur 2 - Brynja Kristín Bertelsdóttir og Óli Þorbjörn Guðbjartsson
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+[Setjið inn nafn kerfis] 
 
 ## Hvað er kerfið?
 Stutt, ein-málsgreina lýsing á því **hvað kerfið er** og **fyrir hvern** það er.

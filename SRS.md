@@ -124,8 +124,17 @@ Kerfið mun veita:
 
 ## 4. Viðaukar
 ### 4.1 Orðalisti
-- Skilgreina lykilhugtök.
+- Þjónustunotandi: Einstaklingur, oft með fötlun, sem nýtir sér þjónustu umönnunarkerfis.
+- Umönnunaraðili: Starfsmaður (t.d. þroskaþjálfi, sjúkraliði) sem veitir þjónustunotanda umönnun.
+- Spjallmenni (Chatbot): Gervigreind sem getur átt samtal við notanda til að veita upplýsingar eða stuðning.
+- Viðskiptaregla: Skilyrði eða regla sem endurspeglar stefnu eða lög og takmarkar hvernig kerfið starfar.
+- Gæðaeiginleiki: Óvirkniskrafa sem lýsir því hversu vel kerfið framkvæmir aðgerð (t.d. hraði, áreiðanleiki).
+- Ytri skil: Samskiptapunktur milli kerfisins og annars kerfis, vélbúnaðar eða notanda.
+- GDPR / Persónuverndarlög: Evrópsk og íslensk löggjöf sem setur reglur um vinnslu persónuupplýsinga.
+- Uppitími (Uptime): Hlutfallstími sem kerfi er í virkni og aðgengilegt notendum.
+- Rafræn skilríki: Opinbert rafrænt auðkenningarkerfi á Íslandi notað til innskráningar.
+- Push-tilkynning: Skilaboð sem snjallsímaforrit sendir til notanda, jafnvel þó forritið sé ekki opið.
 
 ### 4.2 Samþykktir
 - Kennari: ____________________  
-- Nemandi: ____________________
+- Nemandi: Brynja og Óli Þ

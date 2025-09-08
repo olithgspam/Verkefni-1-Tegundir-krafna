@@ -105,20 +105,20 @@ Kerfið mun veita:
 ### 3.7 Gæðaeiginleikar
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| QR1 | [Gæðaeiginleiki] | [#33](../../issues/50) |
-| QR2 | [Gæðaeiginleiki] | [#34](../../issues/51) |
+| QR1 | Kerfið skal vera aðgengilegt 99.8% af tímanum | [#33](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/28) |
+| QR2 | Svartími spjallmennis skal vera innan við 2 sekúndur | [#34](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/31) |
 
 ### 3.8 Takmarkanir
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| C1 | [Takmörkun] | [#35](../../issues/52) |
-| C2 | [Takmörkun] | [#36](../../issues/53) |
+| C1 | Kerfið skal fylgja persónuverndarlögum | [#35](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/32) |
+| C2 | Stuðningur við nýjustu útgáfur iOS og Android | [#36](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/34) |
 
 ### 3.9 Ytri skil (Interfaces)
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| IF1 | [Ytra skil] | [#37](../../issues/54) |
-| IF2 | [Ytra skil] | [#38](../../issues/55) |
+| IF1 | Auðkenning með rafrænum skilríkjum | [#37](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/37) |
+| IF2 | Push-tilkynningar á snjalltæki | [#38](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/38) |
 
 ---
 

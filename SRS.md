@@ -76,24 +76,24 @@ Kerfið mun veita:
 ### 3.5 Virknikröfur
 | ID  | Titill | Notendakrafa | Issue |
 |-----|--------|--------------|-------|
-| FR1 | [Virkni sem styður notendakröfu] | UR1 | [#13](../../issues/24) |
-| FR2 | [Önnur virkni] | UR1 | [#14](../../issues/25) |
-| FR3 | [Önnur virkni] | UR1 | [#15](../../issues/26) |
-| FR4 | [Virkni] | UR2 | [#16](../../issues/27) |
-| FR5 | [Virkni] | UR2 | [#17](../../issues/28) |
-| FR6 | [Virkni] | UR2 | [#18](../../issues/29) |
-| FR7 | [Virkni] | UR3 | [#19](../../issues/30) |
-| FR8 | [Virkni] | UR3 | [#20](../../issues/31) |
-| FR9 | [Virkni] | UR3 | [#21](../../issues/32) |
-| FR10 | [Virkni] | UR4 | [#22](../../issues/33) |
-| FR11 | [Virkni] | UR4 | [#23](../../issues/34) |
-| FR12 | [Virkni] | UR4 | [#24](../../issues/35) |
-| FR13 | [Virkni] | UR5 | [#25](../../issues/36) |
-| FR14 | [Virkni] | UR5 | [#26](../../issues/37) |
-| FR15 | [Virkni] | UR5 | [#27](../../issues/38) |
-| FR16 | [Virkni] | UR6 | [#28](../../issues/39) |
-| FR17 | [Virkni] | UR6 | [#29](../../issues/40) |
-| FR18 | [Virkni] | UR6 | [#30](../../issues/41) |
+| FR1 | Þjónustunotandi spjallar við AI 1 | UR1 | [#13](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/15) |
+| FR2 | Þjónustunotandi spjallar við AI 2 | UR1 | [#14](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/16) |
+| FR3 | Þjónustunotandi spjallar við AI 3 | UR1 | [#15](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/17) |
+| FR4 | Þjónustunotandi fær svör við daglegum spurningum 1 | UR2 | [#16](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/19) |
+| FR5 | Þjónustunotandi fær svör við daglegum spurningum 2 | UR2 | [#17](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/20) |
+| FR6 | Þjónustunotandi fær svör við daglegum spurningum 3 | UR2 | [#18](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/21) |
+| FR7 | Starfsmaður skráir lyf og áætlaða tíma 1 | UR3 | [#19](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/22) |
+| FR8 | Starfsmaður skráir lyf og áætlaða tíma 2 | UR3 | [#20](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/23) |
+| FR9 | Starfsmaður skráir lyf og áætlaða tíma 3 | UR3 | [#21](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/25) |
+| FR10 | Þjónustunotandi fær áminningu um lyfjagjöf 1 | UR4 | [#22]([../../issues/33](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/26)) |
+| FR11 | Þjónustunotandi fær áminningu um lyfjagjöf 2 | UR4 | [#23](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/27) |
+| FR12 | Þjónustunotandi fær áminningu um lyfjagjöf 3 | UR4 | [#24](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/29) |
+| FR13 | Starfsmaður skoðar bjargráð og viðbragðsleiðbeiningar 1 | UR5 | [#25](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/30) |
+| FR14 | Starfsmaður skoðar bjargráð og viðbragðsleiðbeiningar 2 | UR5 | [#26](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/33) |
+| FR15 | Starfsmaður skoðar bjargráð og viðbragðsleiðbeiningar 3 | UR5 | [#27](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/35) |
+| FR16 | Starfsmaður merkir viðbrögð eða skráir atvik eftir á 1 | UR6 | [#28](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/36) |
+| FR17 | Starfsmaður merkir viðbrögð eða skráir atvik eftir á 2 | UR6 | [#29](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/39) |
+| FR18 | Starfsmaður merkir viðbrögð eða skráir atvik eftir á 3 | UR6 | [#30](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/40) |
 
 ### 3.6 Viðskiptareglur
 | ID  | Titill | Issue |

@@ -59,19 +59,19 @@ Kerfið mun veita:
 ### 3.3 Fídusar (Features)
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| F1  | [Titill á fídusi] | [#4](../../issues/15) |
-| F2  | [Titill á fídusi] | [#5](../../issues/16) |
-| F3  | [Titill á fídusi] | [#6](../../issues/17) |
+| F1  | AI Chatbot | [#4](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/5) |
+| F2  | Lyfjaskipulag og áminningar fyrir starfsfólk og þjónustunotendur | [#5](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/6) |
+| F3  | Aðgangur starfsfólks að einstaklingsmiðuðum bjargráðum og viðbragðsleiðbeiningum | [#6](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/8) |
 
 ### 3.4 Notendakröfur
 | ID  | Titill | Fídus | Issue |
 |-----|--------|-------|-------|
-| UR1 | [Notendakrafa 1] | F1 | [#7](../../issues/18) |
-| UR2 | [Notendakrafa 2] | F1 | [#8](../../issues/19) |
-| UR3 | [Notendakrafa 3] | F2 | [#9](../../issues/20) |
-| UR4 | [Notendakrafa 4] | F2 | [#10](../../issues/21) |
-| UR5 | [Notendakrafa 5] | F3 | [#11](../../issues/22) |
-| UR6 | [Notendakrafa 6] | F3 | [#12](../../issues/23) |
+| UR1 | Þjónustunotandi spjallar við AI-aðstoð | F1 | [#7](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/9) |
+| UR2 | Þjónustunotandi fær sjálfvirk svör við daglegum spurningum | F1 | [#8](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/10) |
+| UR3 | Starfsmaður skráir lyf og áætlaða tíma | F2 | [#9](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/11) |
+| UR4 | Þjónustunotandi fær áminningu um lyfjagjöf | F2 | [#10](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/12) |
+| UR5 | Starfsmaður skoðar viðbragðsleiðbeiningar fyrir tiltekinn notanda | F3 | [#11](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/13) |
+| UR6 | Starfsmaður merkir viðbrögð eða skráir atvik eftir á | F3 | [#12](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/14) |
 
 ### 3.5 Virknikröfur
 | ID  | Titill | Notendakrafa | Issue |

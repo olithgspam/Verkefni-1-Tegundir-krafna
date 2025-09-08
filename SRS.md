@@ -2,28 +2,44 @@
 
 ## 1. Inngangur
 ### 1.1 Tilgangur
-Stutt lýsing á tilgangi kerfisins og hverju það á að skila.
+Tilgangur kerfisins er að bæta lífsgæði og öryggi þjónustunotenda á heimilum fyrir fatlaða, með því að bjóða upp á stafræna lausn sem veitir aðstoð í daglegu lífi. Kerfið nýtir gervigreind til að veita sálrænan stuðning, skráningu og skipulagningu á lyfjagjöf, og aðgengi að upplýsingum fyrir umönnunaraðila. Markmiðið er einnig að minnka álag á starfsfólk með sjálfvirkum lausnum.
 
 ### 1.2 Umfang
-Hvað á kerfið að gera? Afmörkun verkefnisins.
+Kerfið mun veita:
+- AI chatbot fyrir sálrænan stuðning og leiðbeiningar
+- Lyfjaskipulagningu og áminningar
+- Aðgang starfsfólks að skjölum, bjargráðum og upplýsingum um notendur
+- Notendaviðmót fyrir þjónustunotendur
+- Kerfið verður í fyrstu útgáfu aðgengilegt sem vef- og snjallsímaforrit með stuðningi fyrir íslenska notendur innan stofnana.
 
 ### 1.3 Skilgreiningar
 | Hugtak | Skýring |
 |--------|---------|
 | SRS | Software Requirements Specification |
 | Issue | Umræða/atriði í GitHub sem tengist ákveðinni kröfu |
+| Chatbot | Spjallmenni sem svarar spurningum með gervigreind |
+| Þjónustunotandi | Einstaklingur með fötlun sem fær þjónustu frá stofnun |
+| Umönnunaraðili | Starfsmaður sem sinnir þjónustunotendum |
 
 ### 1.4 Tilvísanir
 - ISO/IEC/IEEE International Standard - Systems and software engineering -- Life cycle processes -- Requirements engineering," in ISO/IEC/IEEE 29148:2018(E) , vol., no., pp.1-104, 30 Nov. 2018, doi: 10.1109/IEEESTD.2018.8559686.ISO/IEC/IEEE 29
+- Kerfi sem við tókum til fyrirmyndar:
+- https://www.memaxi.is/
+- https://www.huginn.care/
+- https://dala.care/
 
 ---
 
 ## 2. Almenn lýsing
 ### 2.1 Notendahópar
-- Lýsa helstu notendahópum kerfisins (t.d. notendur, stjórnendur).
+- Þjónustunotendur: Notendur með fötlun sem þurfa daglega þjónustu og stuðning
+- Starfsfólk: Sjúkraliðar, félagsráðgjafar og annað fagfólk sem þjónustar notendur
+- Aðstandendur: Fjölskyldumeðlimir sem fá aðgang að upplýsingum með samþykki notanda
 
 ### 2.2 Viðskiptaávinningur
-- Hver er ávinningurinn fyrir fyrirtæki eða notendur?
+- Stofnanir: Minnkar álag á starfsfólk með sjálfvirkum áminningum og upplýsingaflæði
+- Starfsmenn: Aðgengi að skjótum upplýsingum og stuðningi þegar brugðist er við atvikum
+- Þjónustunotendur: Eykur sjálfstæði og öryggi með notendamiðuðum stuðningi og minni háð annarra
 
 ---
 

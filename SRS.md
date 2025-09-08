@@ -48,77 +48,77 @@ Kerfið mun veita:
 ### 3.1 Viðskiptakröfur
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| BR1 | [Titill á viðskiptakröfu] | [#1](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/1) |
-| BR2 | [Titill á viðskiptakröfu] | [#13](../../issues/13) |
+| BR1 | Minnka tímalengd sem starfsfólk eyðir í lyfjaskipulagningu um 50% á 3 mánuðum | [#1](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/1) |
+| BR2 | Auka sjálfstæði þjónustunotenda með daglegri notkun á AI stuðningsaðstoð | [#2](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/3) |
 
 ### 3.2 Kerfiskrafa
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| SR1 | [Titill á kerfiskröfu] | [#14](../../issues/14) |
+| SR1 | Fjölbreytt aðgengi að kerfinu fyrir mismunandi | [#3](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/4) |
 
 ### 3.3 Fídusar (Features)
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| F1  | [Titill á fídusi] | [#15](../../issues/15) |
-| F2  | [Titill á fídusi] | [#16](../../issues/16) |
-| F3  | [Titill á fídusi] | [#17](../../issues/17) |
+| F1  | [Titill á fídusi] | [#4](../../issues/15) |
+| F2  | [Titill á fídusi] | [#5](../../issues/16) |
+| F3  | [Titill á fídusi] | [#6](../../issues/17) |
 
 ### 3.4 Notendakröfur
 | ID  | Titill | Fídus | Issue |
 |-----|--------|-------|-------|
-| UR1 | [Notendakrafa 1] | F1 | [#18](../../issues/18) |
-| UR2 | [Notendakrafa 2] | F1 | [#19](../../issues/19) |
-| UR3 | [Notendakrafa 3] | F2 | [#20](../../issues/20) |
-| UR4 | [Notendakrafa 4] | F2 | [#21](../../issues/21) |
-| UR5 | [Notendakrafa 5] | F3 | [#22](../../issues/22) |
-| UR6 | [Notendakrafa 6] | F3 | [#23](../../issues/23) |
+| UR1 | [Notendakrafa 1] | F1 | [#7](../../issues/18) |
+| UR2 | [Notendakrafa 2] | F1 | [#8](../../issues/19) |
+| UR3 | [Notendakrafa 3] | F2 | [#9](../../issues/20) |
+| UR4 | [Notendakrafa 4] | F2 | [#10](../../issues/21) |
+| UR5 | [Notendakrafa 5] | F3 | [#11](../../issues/22) |
+| UR6 | [Notendakrafa 6] | F3 | [#12](../../issues/23) |
 
 ### 3.5 Virknikröfur
 | ID  | Titill | Notendakrafa | Issue |
 |-----|--------|--------------|-------|
-| FR1 | [Virkni sem styður notendakröfu] | UR1 | [#24](../../issues/24) |
-| FR2 | [Önnur virkni] | UR1 | [#25](../../issues/25) |
-| FR3 | [Önnur virkni] | UR1 | [#26](../../issues/26) |
-| FR4 | [Virkni] | UR2 | [#27](../../issues/27) |
-| FR5 | [Virkni] | UR2 | [#28](../../issues/28) |
-| FR6 | [Virkni] | UR2 | [#29](../../issues/29) |
-| FR7 | [Virkni] | UR3 | [#30](../../issues/30) |
-| FR8 | [Virkni] | UR3 | [#31](../../issues/31) |
-| FR9 | [Virkni] | UR3 | [#32](../../issues/32) |
-| FR10 | [Virkni] | UR4 | [#33](../../issues/33) |
-| FR11 | [Virkni] | UR4 | [#34](../../issues/34) |
-| FR12 | [Virkni] | UR4 | [#35](../../issues/35) |
-| FR13 | [Virkni] | UR5 | [#36](../../issues/36) |
-| FR14 | [Virkni] | UR5 | [#37](../../issues/37) |
-| FR15 | [Virkni] | UR5 | [#38](../../issues/38) |
-| FR16 | [Virkni] | UR6 | [#39](../../issues/39) |
-| FR17 | [Virkni] | UR6 | [#40](../../issues/40) |
-| FR18 | [Virkni] | UR6 | [#41](../../issues/41) |
+| FR1 | [Virkni sem styður notendakröfu] | UR1 | [#13](../../issues/24) |
+| FR2 | [Önnur virkni] | UR1 | [#14](../../issues/25) |
+| FR3 | [Önnur virkni] | UR1 | [#15](../../issues/26) |
+| FR4 | [Virkni] | UR2 | [#16](../../issues/27) |
+| FR5 | [Virkni] | UR2 | [#17](../../issues/28) |
+| FR6 | [Virkni] | UR2 | [#18](../../issues/29) |
+| FR7 | [Virkni] | UR3 | [#19](../../issues/30) |
+| FR8 | [Virkni] | UR3 | [#20](../../issues/31) |
+| FR9 | [Virkni] | UR3 | [#21](../../issues/32) |
+| FR10 | [Virkni] | UR4 | [#22](../../issues/33) |
+| FR11 | [Virkni] | UR4 | [#23](../../issues/34) |
+| FR12 | [Virkni] | UR4 | [#24](../../issues/35) |
+| FR13 | [Virkni] | UR5 | [#25](../../issues/36) |
+| FR14 | [Virkni] | UR5 | [#26](../../issues/37) |
+| FR15 | [Virkni] | UR5 | [#27](../../issues/38) |
+| FR16 | [Virkni] | UR6 | [#28](../../issues/39) |
+| FR17 | [Virkni] | UR6 | [#29](../../issues/40) |
+| FR18 | [Virkni] | UR6 | [#30](../../issues/41) |
 
 ### 3.6 Viðskiptareglur
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| BRG1 | [Viðskiptaregla] | [#42](../../issues/42) |
-| BRG2 | [Viðskiptaregla] | [#43](../../issues/43) |
+| BRG1 | [Viðskiptaregla] | [#31](../../issues/42) |
+| BRG2 | [Viðskiptaregla] | [#32](../../issues/43) |
 
 
 ### 3.7 Gæðaeiginleikar
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| QR1 | [Gæðaeiginleiki] | [#50](../../issues/50) |
-| QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
+| QR1 | [Gæðaeiginleiki] | [#33](../../issues/50) |
+| QR2 | [Gæðaeiginleiki] | [#34](../../issues/51) |
 
 ### 3.8 Takmarkanir
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| C1 | [Takmörkun] | [#52](../../issues/52) |
-| C2 | [Takmörkun] | [#53](../../issues/53) |
+| C1 | [Takmörkun] | [#35](../../issues/52) |
+| C2 | [Takmörkun] | [#36](../../issues/53) |
 
 ### 3.9 Ytri skil (Interfaces)
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| IF1 | [Ytra skil] | [#54](../../issues/54) |
-| IF2 | [Ytra skil] | [#55](../../issues/55) |
+| IF1 | [Ytra skil] | [#37](../../issues/54) |
+| IF2 | [Ytra skil] | [#38](../../issues/55) |
 
 ---
 

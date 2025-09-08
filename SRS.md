@@ -54,7 +54,7 @@ Kerfið mun veita:
 ### 3.2 Kerfiskrafa
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| SR1 | Fjölbreytt aðgengi að kerfinu fyrir mismunandi | [#3](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/4) |
+| SR1 | Fjölbreytt aðgengi að kerfinu fyrir mismunandi notendur | [#3](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/4) |
 
 ### 3.3 Fídusar (Features)
 | ID  | Titill | Issue |

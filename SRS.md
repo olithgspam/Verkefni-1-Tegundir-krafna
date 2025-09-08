@@ -98,8 +98,8 @@ Kerfið mun veita:
 ### 3.6 Viðskiptareglur
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| BRG1 | [Viðskiptaregla] | [#31](../../issues/42) |
-| BRG2 | [Viðskiptaregla] | [#32](../../issues/43) |
+| BRG1 | Aðgangsstýring gagna þjónustunotenda | [#31](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/18) |
+| BRG2 | Tvíþætt staðfesting á lyfjabreytingum | [#32](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna/issues/24) |
 
 
 ### 3.7 Gæðaeiginleikar

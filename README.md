@@ -1,23 +1,27 @@
-# 📦 SRS Template Repository
+# Verkefni 1: Kröfugreining fyrir umönnunarkerfið Stoð
 
-Þetta geymsluform er sniðmát fyrir námskeiðið HBV301G Verkfræði kröfugreiningar. Notaðu þetta til að:
-- Skrá hugbúnaðarkröfur sem Issues
-- Skilgreina og skrá SRS skjöl
-- Nota GitHub Projects til að fylgjast með stöðu verkefnis. Notið Kanban borð 
+## Höfundar og áfangi
 
-Nemendur: Ýtið á **"Use this template"** til að búa til eigið repo út frá þessum grunni.
+* **Áfangi:** HBV301G Verkfræði kröfugreiningar
+* **Höfundar:** Brynja Kristín Bertelsdóttir og Óli Þorbjörn Guðbjartsson
 
-Þegar þú kemur inn í eigið repo geturðu gert: 
-- Búðu til Project sem tengist þessu repo og settu það upp með Kanban borði. 
-- Gerðu félaga þinn að collaborator að repo-inu og að project-inu (Settings) 
-- Búðu til Issue í repo-inu og tengdu Issue-ið við Project-ið
-- Farðu inn í Project-ið og settu issue-ið á rétt borð (Kanban)
-- Jafnóðum og þú bætir við, lýkur við kröfum (issue) eða alveg í lokin, bættu þeim við **SRS.md skrána** með því að vísa í hlekkinn
-- Skrifaðu **SDS skrána** og tengdu við SRS.md skrána 
+## Um verkefnið
 
-Til að tengja issue við útgáfustjórnun er gott að 
-- Búa til sérstakt branch fyrir hvert issue eða flokk krafna (t.d. Notendakröfur). 
-- Byrjaðu á því að búa til issue í GitHub sem lýsir kröfunni. 
-- Síðan býrðu til nýtt branch sem tengist því issue, til dæmis með nafni sem inniheldur númerið á issue-inu eða flokknum . 
-- Gerðu breytingarnar þínar á því branchi og notaðu commit-skilaboð sem vísa í issue-númerið, til dæmis „Tenging við launakerfi (#12)“. 
-- Þegar þú push-ar branchinu upp í GitHub geturðu opnað Pull Request og þar skrifað „Closes #12“ þannig að issue-ið lokist sjálfkrafa þegar pull requestið er samþykkt og sameinað inn í main.
+Stoð er heildstætt stafrænt umönnunarkerfi hannað til að styðja við þjónustu fyrir fatlað fólk og aðra þjónustunotendur í umönnun. Markmið kerfisins er að auka lífsgæði notenda og skilvirkni starfsfólks með því að einfalda daglegt skipulag og veita stafræn stuðningsverkfæri.
+
+### Helstu fídusar og virkni
+
+Samkvæmt kröfugreiningunni inniheldur kerfið eftirfarandi kjarnavirkni:
+
+* **Gervigreindarspjallmenni (AI Chatbot):** Veitir sálrænan stuðning og svör við algengum spurningum.
+* **Lyfjaskipulag og áminningar:** Heldur utan um lyfjagjafir og sendir áminningar til notenda og starfsfólks.
+* **Aðgangur að bjargráðum:** Gefur starfsfólki aðgang að einstaklingsmiðuðum viðbragðsleiðbeiningum.
+
+## Innihald geymslu (Repository)
+
+Þessi geymsla (repository) inniheldur afurðir kröfugreiningarvinnu fyrir kerfið Stoð. Hér má finna ítarleg skjöl um kerfið:
+
+* **[🧭 System Description Specification (SDS.md)](SDS.md):** Yfirlit yfir kerfið, markmið þess, afmörkun og ígrundun á verkefninu.
+* **[📄 Software Requirements Specification (SRS.md)](SRS.md):** Nákvæmur listi yfir allar viðskipta-, notenda-, virkni- og óvirkniskröfur.
+
+Allar einstakar kröfur eru einnig skráðar sem **Issues** og skipulagðar á **Kanban borði** sem má finna undir "Projects" flipanum hér á GitHub.
